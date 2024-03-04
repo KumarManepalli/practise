@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.list-items {
+  list-style-type: none;
+  width: 235px;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom: 32px;
+}
+.destination-img {
+  width: 235px;
+  height: 175px;
+}
